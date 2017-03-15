@@ -1,0 +1,53 @@
+# jupyter & co
+https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tarball/master
+ipython==5.0.0
+jupyter
+
+# utils
+beautifulsoup4
+boto3
+cssselect
+cython
+futures==3.0.5
+pep8
+pyyaml
+requests[security]
+singledispatch
+tables
+xmltodict
+
+guppy
+memory_profiler
+psutil
+
+# analysis stack
+fuzzywuzzy
+h5py
+https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.0.1-cp27-none-linux_x86_64.whl
+intervals==0.8.0
+lifelines
+lmfit
+networkx
+nltk
+numpy==1.12.0
+pandas-datareader
+pandas==0.19.2
+pymc3
+python-Levenshtein
+scikit-learn==0.18.1
+scipy==0.18.1
+sympy
+tsfresh
+xgboost
+
+# plotting
+actdiag
+blockdiag
+brewer2mpl==1.4.1
+graphviz
+mpld3
+nwdiag
+plotly==1.12.12
+pydotplus
+seaborn
+seqdiag

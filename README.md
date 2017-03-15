@@ -1,0 +1,1 @@
+This is a simple docker image with common data science libraries and a jupyter notebook
